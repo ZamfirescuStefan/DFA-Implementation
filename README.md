@@ -1,6 +1,6 @@
-# Implementation of a deterministic finite automata (DFA)
+# Implementation of a lambda-nedeterministic finite automata (lambda_NFA)
 
-The program checks if a word is accepted by a DFA.
+The program checks if a word is accepted by a lambda_NFA.
 
 ### The DFA is read from ```"config_automat"``` file in this form: 
  - the numbers of states 
