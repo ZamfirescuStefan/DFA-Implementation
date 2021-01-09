@@ -3,14 +3,14 @@
 The program checks if a word is accepted by a lambda_NFA.
 
 ### The automata is read from ```"config_automat"``` file in this form: 
- - the numbers of states 
+ - the number of states 
  - the number of characters in the alphabet
  - the list of characters of the alphabet
  - initial state 
  - the number of final states
  - the list of final states 
  - the number of transitions
- - the list os transitions 
+ - the list of transitions 
   - list of transitions with ``` node evaluation node``` structure
   
   ### The word is given from the console:
