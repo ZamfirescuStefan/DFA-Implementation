@@ -2,7 +2,7 @@
 
 The program checks if a word is accepted by a lambda_NFA.
 
-### The DFA is read from ```"config_automat"``` file in this form: 
+### The automata is read from ```"config_automat"``` file in this form: 
  - the numbers of states 
  - the number of characters in the alphabet
  - the list of characters of the alphabet
