@@ -1,6 +1,6 @@
 # Implementation of a deterministic finite automata (DFA)
 
-The program checks if a word is accepted by a DFA
+The program checks if a word is accepted by a DFA.
 
 ### The DFA is read from ```"config_automat"``` file in this form: 
  - the numbers of states 
@@ -17,5 +17,11 @@ The program checks if a word is accepted by a DFA
   
    - First: number of characters of the word 
    - Second: the word
+   
+ <br/>
+ 
+ <i> 
+ This program was developed as a homework for the Formal Languages And Automata Theory Class at the University of Bucharest, Faculty of Mathematics and Computer Science, 2019-2020.
+ </i>
   
   
